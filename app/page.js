@@ -19,7 +19,7 @@ export default function Home() {
     <div className="min-h-screen bg-green-50 p-6 flex flex-col items-center justify-center text-black">
       <div className="bg-white shadow-lg rounded-2xl p-6 w-full max-w-xl">
         <h1 className="text-2xl font-bold text-center">Kalkulator Zakat Padi</h1>
-        <p className="text-xs italic text-center text-gray-500 mb-4">by HISHAM</p>
+        <p className="text-xs italic text-center text-gray-500 mb-4">by HISHAM NAJHAN</p>
 
         <div className="space-y-4">
           <div>
